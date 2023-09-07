@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.tst.key.tst_key",
+    "package_name": "com.tst_link.tst_link",
     "sha256_cert_fingerprints":
     ["F3:A9:33:A1:CD:22:F6:EE:DE:31:49:B7:85:C0:18:55:86:06:CB:11:73:13:5A:51:DF:61:9D:9D:37:57:82:37"]
   }
