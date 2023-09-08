@@ -47,11 +47,11 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
 
-    print('\x1B[32m initState 1 \x1B[0m');
+    print('\x1B[32m initState Start \x1B[0m');
 
     initDeepLinks();
 
-    print('\x1B[32m initState 2 \x1B[0m');
+    print('\x1B[32m initState End \x1B[0m');
   }
 
   @override
